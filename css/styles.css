@@ -4,3 +4,17 @@ body{
     background-color: #61122f;
     font-family: 'Oxygen',sans-serif;
 }
+.nav-bar{
+    padding-bottom: 0;
+}
+.navbar-toggler:focus{
+    box-shadow: 0 0 0 0;
+}
+.nav-item{
+    text-align: center;
+}
+.dummy-txt{
+    background-color: white;
+    color: black;
+
+}
